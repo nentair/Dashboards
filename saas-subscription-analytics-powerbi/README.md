@@ -166,8 +166,3 @@ Key findings:
 - Auto Renew Rate
 - Escalation Rate
 
----
-
-# Project Goal
-
-The goal of this project was to build a realistic SaaS analytics dashboard and practice working with business KPIs, DAX calculations, and multi-table data models in Power BI.
